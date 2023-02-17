@@ -36,6 +36,5 @@ You will be evaluated on the following criteria:
 
 ### Submission Instructions
 
-1. Fork this GitHub repository and commit your code to your fork.
-2. Include a README file with instructions on how to set up and use the API.
-3. Send a link to your repository to the person who assigned you the test.
+1. Include a README file with instructions on how to set up and use the API.
+3. Send a link to your repository to developers@hydroiq.co.ke
